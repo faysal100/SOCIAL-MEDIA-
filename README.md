@@ -16,6 +16,10 @@ $ pkg install git
 
 $ pkg install pip
 
+$ pip install wheel
+
+$ pip install numpy
+
 $ pip install colorama
 
 $ pip install Rust
