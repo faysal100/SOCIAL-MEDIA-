@@ -18,10 +18,11 @@ $ pkg install pip
 
 $ pip install colorama
 
-$ git clone https://GitHub.com/Hoodmaster2/SOCIAL-MEDIA 
+$ git clone https://github.com/Hoodmaster2/SOCIAL-MEDIA-
 
-$ cd SOCIAL-MEDIA
+$ cd SOCIAL-MEDIA-
 
 $ python social-media.py
 
-THEN FOLLOW THE PROMPT.. 
+THEN FOLLOW THE PROMPT...
+that's all
