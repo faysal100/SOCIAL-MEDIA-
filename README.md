@@ -18,6 +18,8 @@ $ pkg install pip
 
 $ pip install colorama
 
+$ pip install cryptography
+
 $ git clone https://github.com/Hoodmaster2/SOCIAL-MEDIA-
 
 $ cd SOCIAL-MEDIA-
