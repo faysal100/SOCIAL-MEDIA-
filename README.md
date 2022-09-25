@@ -36,3 +36,6 @@ $ python social-media.py
 
 THEN FOLLOW THE PROMPT...
 that's all
+
+HERE IS A VIDEO TUTORIAL LINK:
+https://youtu.be/DDKX0iCFXsw
